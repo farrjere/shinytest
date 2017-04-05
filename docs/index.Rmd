@@ -109,7 +109,7 @@ To run the test script, do the following:
 library(shinytest)
 
 # Replace with the correct path
-recordTest("PATH/TO/APP")
+testApp("PATH/TO/APP")
 ```
 
 The first time you run tests, you will see something like this:
